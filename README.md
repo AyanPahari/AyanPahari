@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayan Kumar Pahari</h1>
-<h3 align="center">Pursuing Masters in Computer Science and Engineering from IIT Hyderabad</h3>
+<h3 align="center">Pursuing Masters in Computer Science and Engineering at IIT Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanpahari&label=Profile%20views&color=0e75b6&style=flat" alt="ayanpahari" /> </p>
 
@@ -9,7 +9,7 @@
 <a href="https://www.hackerrank.com/emperor_biga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emperor_biga" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pahari_ayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pahari_ayan/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@pahari.ayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pahari.ayan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@ayanpahari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@ayanpahari" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ayanpahari/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@ayanpahari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
